@@ -1,1 +1,13 @@
-1024 MegaBytes = 1 GigaByte
+1024 Megabytes = 1 Gigabyte
+1024 Gigabytes = 1 Terabyte
+1024 Terabytes = 1 Petabyte
+1024 Petabytes = 1 Exabyte
+1024 Exabytes = 1 Zettabyte
+1024 Zettabytes = 1 Yottabyte
+
+
+Velocity = Speed data is transformed
+Volume = Infrastructure and amount of data
+Variety = Data sources the data was colleted from
+Veracity = Quality and usefullness of data
+Value = Profits it can make a company
